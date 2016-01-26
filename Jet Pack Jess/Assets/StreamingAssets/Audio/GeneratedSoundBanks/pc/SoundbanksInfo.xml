@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Dicky\Dropbox\WwiseProjects\Jet Pack Jessie\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Dicky\Dropbox\WwiseProjects\Jet Pack Jessie\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Dicky\Dropbox\Unity_Games\Jet Pack Jess\Assets\StreamingAssets\Audio\GeneratedSoundBanks\pc\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Dicky\Dropbox\WwiseProjects\Jet Pack Jessie\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2992761690" Language="SFX">
+			<ShortName>Jessie</ShortName>
+			<Path>Jessie.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
