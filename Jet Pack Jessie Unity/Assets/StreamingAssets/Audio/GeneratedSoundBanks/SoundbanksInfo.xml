@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Dicky\Dropbox\Repositories\jetpackjessiedev\Jet Pack Jessie Wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Dicky\Dropbox\Repositories\jetpackjessiedev\Jet Pack Jessie Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Dicky\Dropbox\Repositories\jetpackjessiedev\Jet Pack Jessie Unity\Assets\StreamingAssets\Audio\GeneratedSoundBanks\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Dicky\Dropbox\Repositories\jetpackjessiedev\Jet Pack Jessie Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2992761690" Language="SFX">
+			<ShortName>Jessie</ShortName>
+			<Path>Jessie.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2147762097" Name="Cube_sound_emitter"/>
+				<Event Id="1857450910" Name="Start_music_event"/>
+				<Event Id="3935460844" Name="Stop_music_event"/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

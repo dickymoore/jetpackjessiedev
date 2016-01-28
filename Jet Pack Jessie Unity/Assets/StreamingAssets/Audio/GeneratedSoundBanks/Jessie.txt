@@ -1,0 +1,5 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1857450910	Start_music_event			\Default Work Unit\Start_music_event	
+	2147762097	Cube_sound_emitter			\Default Work Unit\Cube_sound_emitter	
+	3935460844	Stop_music_event			\Default Work Unit\Stop_music_event	
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5B0BE4A4-6252-42A7-B435-4E2B79C553D8}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{5B0BE4A4-6252-42A7-B435-4E2B79C553D8}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Cube_sound_emitter" ID="{F15A5277-1990-4618-9430-9B6A622E617B}"/>
+				<Event Name="Start_music_event" ID="{DCAD3907-7E0F-4B14-8BCE-629FC18073DA}"/>
+				<Event Name="Stop_music_event" ID="{C8ADBEDE-0F82-41C0-A67D-BC149FC9D169}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
